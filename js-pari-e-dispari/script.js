@@ -38,8 +38,8 @@ console.log(`La somma è: ${somma}, quindi è ${risultato}`); // Stampiamo il ri
 // Confrontiamo la scelta dell’utente con il risultato effettivo
 if (sceltaUtente === risultato) {
   // Se corrispondono, ha vinto l’utente
-  console.log("Hai vinto! 🎉");
+  console.log("Hai vinto!");
 } else {
   // Altrimenti ha vinto il computer
-  console.log("Ha vinto il computer. 💻");
+  console.log("Ha vinto il computer.");
 }
